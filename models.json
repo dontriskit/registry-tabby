@@ -1,13 +1,13 @@
 [
   {
-    "name": "1",
-    "license_name": "Deepseek License",
-    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "name": "13",
+    "license_name": "STABILITY AI NON-COMMERCIAL RESEARCH COMMUNITY LICENSE AGREEMENT",
+    "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
-    "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5",
+    "provider_url": "https://huggingface.co/stabilityai/stable-code-3b",
     "urls": [
-      "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF/resolve/main/deepseek-coder-7b-instruct-v1.5-Q3_K_L.gguf"
+      "https://huggingface.co/TheBloke/stable-code-3b-GGUF/resolve/main/stable-code-3b.Q6_K.gguf"
     ],
-    "sha256": "792a872e3acbcd4fb178c73fbc1f074832d2fed8685bfdb072157e9cdfb1d8c7"
+    "sha256": "ed10b6f9d27acc765f51bde6d02a585eaa5c559e545853eb531bb37cc1bca3cf"
   }
 ]
