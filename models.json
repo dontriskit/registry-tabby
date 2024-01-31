@@ -26,7 +26,7 @@
     "license_name": "Deepseek License",
     "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
-    "provider_url": "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF/",
+    "provider_url": "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF",
     "urls": [
       "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF/resolve/main/deepseek-coder-7b-instruct-v1.5-Q3_K_L.gguf"
     ],
