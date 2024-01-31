@@ -22,11 +22,11 @@
     "sha256": "6c841fde94b9103c92e875c9ab0ebeeb624b0709b2410c3bd942c80cd635117f"
   },
   {
-    "name": "coder-1.5",
+    "name": "coder15",
     "license_name": "Deepseek License",
     "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
-    "provider_url": "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF",
+    "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5",
     "urls": [
       "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF/resolve/main/deepseek-coder-7b-instruct-v1.5-Q3_K_L.gguf"
     ],
